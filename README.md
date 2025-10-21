@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Developer illustration">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-coding-illustration-download-in-svg-png-gif-file-formats--woman-developer-engineer-technology-pack-design-development-illustrations-7294836.png" width="400" alt="Female Developer Illustration">
 </p>
